@@ -1,0 +1,5 @@
+Example: y2s1p3b
+y2 - Second year of university
+s1 - First semester
+p3 - Third project (or lab work)
+b - Second task from it
