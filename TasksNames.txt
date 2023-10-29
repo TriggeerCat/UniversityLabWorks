@@ -1,5 +1,6 @@
-Example: y2s1p3b
-y2 - Second year of university
-s1 - First semester
-p3 - Third project (or lab work)
-b - Second task from it
+y - Number, that stands for year of university
+   (Example: Second year - y2, Fourth year - y4)
+s - Number, that stands for semester
+   (Example: First semester - s1, Second semester - s2)
+p - Number, that stands for project (lab work) number (If it is a modular work, the letter M is added) and letter, that stands for tasks from it
+   (Example: First task from Lab №2 - p2a, Third task from Lab №10 - p10c)
